@@ -113,7 +113,7 @@ team = [
     },
     {
         "name":    "Kassouar Fatima",
-        "email":   "null",
+        "email":   "kassoarfatima48@gmail.com",
         "role":    "Project Manager, ml Engineer",
         "degree":  "State Engineer in Computer Science",
         "uni":     "University of Saida, Algeria",
